@@ -1,5 +1,6 @@
 # Superheroes API
 
+
 Welcome to the Superheroes API! This project is a simple Flask-based REST API for tracking comic book heroes and their amazing superpowers. It was built as part of a code challenge to practice building relationships, validations, and RESTful endpoints in Flask.
 
 ---
@@ -47,6 +48,7 @@ This API lets you:
 3. **Install dependencies**
     ```sh
     pipenv  install -r requirements.txt
+    pipenv shell to activate also the environment  
     ```
 
 4. **Set up the database**
